@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://art.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick art'
+title = 'GGG Pick 아트소품'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick art'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'art 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '인테리어 포스터, 액자, 조각상 및 오브제 등 공간의 감각을 살려주는 아트/미술 소품 쿠팡 로켓배송 추천 및 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick art'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick art"
+  sitename = "GGG Pick 아트소품"
   siteurl = "https://art.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
